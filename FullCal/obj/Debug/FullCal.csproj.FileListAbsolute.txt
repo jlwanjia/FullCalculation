@@ -1,0 +1,11 @@
+C:\Users\jlwan\source\repos\C#\FullCal\FullCal\bin\Debug\FullCal.exe.config
+C:\Users\jlwan\source\repos\C#\FullCal\FullCal\bin\Debug\FullCal.exe
+C:\Users\jlwan\source\repos\C#\FullCal\FullCal\bin\Debug\FullCal.pdb
+C:\Users\jlwan\source\repos\C#\FullCal\FullCal\obj\Debug\FullCal.csproj.AssemblyReference.cache
+C:\Users\jlwan\source\repos\C#\FullCal\FullCal\obj\Debug\FullCal.csproj.SuggestedBindingRedirects.cache
+C:\Users\jlwan\source\repos\C#\FullCal\FullCal\obj\Debug\FullCal.Form1.resources
+C:\Users\jlwan\source\repos\C#\FullCal\FullCal\obj\Debug\FullCal.Properties.Resources.resources
+C:\Users\jlwan\source\repos\C#\FullCal\FullCal\obj\Debug\FullCal.csproj.GenerateResource.cache
+C:\Users\jlwan\source\repos\C#\FullCal\FullCal\obj\Debug\FullCal.csproj.CoreCompileInputs.cache
+C:\Users\jlwan\source\repos\C#\FullCal\FullCal\obj\Debug\FullCal.exe
+C:\Users\jlwan\source\repos\C#\FullCal\FullCal\obj\Debug\FullCal.pdb
